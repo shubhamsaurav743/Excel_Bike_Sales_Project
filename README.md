@@ -1,2 +1,2 @@
-# Excel_Projects
-This Repository contains defferent Excel Projects.
+# Excel_Bike_Sales_Projects
+Excel project to analyze bike sales.
